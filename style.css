@@ -1,13 +1,6 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: #f4f4f9;
-    color: #333;
+    background-color: white;
     line-height: 1.6;
     padding: 20px;
 }
@@ -16,16 +9,18 @@ body {
 h1 {
     max-width: 800px;
     margin: 0 auto;
-    background: #fff;
+    background: lightblue;
     padding: 30px;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    color: black;
 }
 h2 {
     max-width: 800px;
+    background-color: rgb(74, 169, 201);
     margin: 0 auto;
-    background: #fff;
     padding: 30px;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    color: black;
 }
